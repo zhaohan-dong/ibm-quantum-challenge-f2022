@@ -10,3 +10,4 @@
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 .ipynb_*
+.venv
